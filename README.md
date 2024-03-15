@@ -1,1 +1,3 @@
 # Pricing-Model
+
+This is a pricing optimization project tailored for a SMART WATCH Company. The project entails analyzing various pricing factors including material costs, component costs, and warehouse expenses. With the objectives of achieving a profit margin exceeding 2% and ensuring 100% warehouse utilization, the project offers inputs for price and warehouse utilization percentage. Leveraging these inputs, the system forecasts demand based on the price, calculates revenue and costs, and ultimately determines the profit margin. Through this streamlined process, the company can make informed pricing decisions that balance profitability with demand dynamics, thereby driving overall business success.
